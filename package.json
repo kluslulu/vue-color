@@ -23,7 +23,7 @@
     "clamp": "^1.0.1",
     "lodash.throttle": "^4.0.0",
     "material-colors": "^1.0.0",
-    "tinycolor2": "^1.1.2"
+    "tinycolor2": "^1.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
